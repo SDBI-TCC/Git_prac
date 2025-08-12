@@ -1,5 +1,4 @@
 
-Roses are red,
-Commits are neat,
-<YOU and your partner both edit THIS line differently to trigger a conflict>,
-PRs are how we meet.
+Roses are red
+
+continue...
